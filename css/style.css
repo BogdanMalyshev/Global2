@@ -99,7 +99,6 @@ header {
 	color:white;
 	font-size: 75px;
 	margin-top: 20px;
-
 }
 .title p{
 	margin: 0px;
@@ -119,7 +118,6 @@ header {
 	overflow: hidden;
 	transition: all 1s;
 	margin-top: 100px;
-
 }
 .bottom_click {
 	height: 65px;
@@ -358,7 +356,6 @@ body.lock{
 	height: 2px;
 	background: #fff;
 }
-
 .main {
 	border-top: 2px #fed136 solid;
 	left: 0;
@@ -387,15 +384,15 @@ body.lock{
 /* ----------------------------------------------------------- */
 .main.active{
 	top: 80px;
-	}
+}
 .conteiner{
 	width: 100%;
 	padding-left:20px;
 	padding-right: 20px; 
-	}
+}
 header{
 	height: 50vh;
-	}
+}
 .title-header h1{
 	margin: 0px;
 	padding: 0px;
@@ -436,16 +433,12 @@ header{
 	flex-wrap:wrap;
 	margin-top: 60px;
 	margin-bottom: 100px;
-
 }
 .box{
 	width: 45%;
-
-
 }
 .box:last-child{
 	margin-top: 10px;
-
 }
 .title-services h3 {
 	font-size: 30px;
